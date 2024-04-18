@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7C428BAB-DF1A-5CC8-3E1D-CB147604C258}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraCharacter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BallManager.cs" Line="33" Column="10" />
+      <File FileName="Assets/Scripts/CameraCharacter.cs" Line="78" Column="13" />
+      <File FileName="Assets/Scripts/ObjectSpawner.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GhostHunterShowdown" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6e8cfea0-ac10-4a6d-a06a-a1a2f373ad5a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
